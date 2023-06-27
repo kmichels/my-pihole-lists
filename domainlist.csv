@@ -6,3 +6,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 7,0,bat.bing.com,1,1637256450,1637256450,"Added from Query Log"
 8,0,metrics.icloud.com,1,1654986422,1654986422,
 9,2,(\.|^)thingiverse\.com$,1,1669996529,1669996529,
+10,0,ads.reddit.com,1,1687874297,1687874297,"Added from Query Log"
